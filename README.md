@@ -1,4 +1,4 @@
 YUI-Template
 ============
 
-Super simple started template running the YUI :D
+Super simple starter template running the YUI :D
