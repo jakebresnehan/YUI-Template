@@ -8,7 +8,7 @@ YUI().use('node', function (Y) {
 
     var boom = Y.all('p');
 
-    Y.log("fecker a");
+    Y.log("I'm all working YO DIGGA!");
 
     if (boom) { // might be null
         // adds "bar" to the first paragraph descendant of #demo
